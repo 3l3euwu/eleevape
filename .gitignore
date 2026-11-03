@@ -1,0 +1,6 @@
+build/
+.idea
+baseline/
+VapeLoader-main
+native
+.gradle

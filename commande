@@ -1,0 +1,1 @@
+$env:Path='C:\Program Files\JetBrains\CLion2026.2\bin\cmake\win\x64\bin;' + $env:Path; $env:JAVA_HOME='C:\Program Files\Eclipse Adoptium\jdk-8.0.504.1-hotspot'; .\gradlew.bat prepareInjectionBundle -PtargetRelease=8 -PnativeJavaHome="$env:JAVA_HOME"
